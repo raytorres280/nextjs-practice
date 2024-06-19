@@ -16,6 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <script defer src="http://umami-io0ocwo.138.197.2.213.sslip.io/script.js" data-website-id="1c204560-f1f5-44e5-a422-b523a86cb5ef"></script>
       <body className={inter.className}>{children}</body>
     </html>
   );
